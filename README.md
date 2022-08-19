@@ -37,12 +37,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jasonsweatt&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p align="center">
-<a href="https://github.com/ShipCarousel/carousel-core-services">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jasonsweatt&show_icons=true&theme=algolia&include_all_commits=true&repo=carousel-core-services"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jasonsweatt&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
