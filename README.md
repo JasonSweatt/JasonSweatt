@@ -6,7 +6,7 @@
 |--|--|
 |![love](http://ForTheBadge.com/images/badges/built-with-love.svg) | I love to explore new technologies and develop software solutions and quick hacks.|
 |![info](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) | Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.|
-|![develoeprs](http://ForTheBadge.com/images/badges/built-by-developers.svg) | I have been developing for 26+ years, best in class solutions, Systems Design, and Cloud Architecture.|
+|![develoeprs](http://ForTheBadge.com/images/badges/built-by-developers.svg) | I have been developing for 28+ years, best in class solutions, Systems Design, and Cloud Architecture.|
 |![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | You can shoot me an email at jason.sweatt@gmail.com! I'll try to respond as soon as I can.|
 
 ### 🛠 &nbsp;Tech Stack
@@ -29,7 +29,7 @@
 |![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)|![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
 |![powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)||
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)|
-
+|more..| Many more, too many to list|
 
 <p align="center">
 <a href="https://github.com/jasonsweatt">
